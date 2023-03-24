@@ -50,6 +50,8 @@ At the end of the day, being a developer in Zimbabwe may have its challenges, bu
 
 ## Java
 
+- [Spring Framework](https://spring.io/) - Spring makes programming Java quicker, easier, and safer for everybody. Making a backend service in Java, DO use spring framework, DO it. You like pain if you don't.
+
 ## Javascript
 
 ## Conventions
