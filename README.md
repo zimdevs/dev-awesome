@@ -49,3 +49,5 @@ Want to know when a new entry is added? Click `Watch` at the top of the page and
 ## Tutorials
 
 ## Tools
+
+- [just](https://just.systems/) - just is a handy way to save and run project-specific commands. Cross platform script files to keep in the root of your project dir, run common tasks just like a helper .sh file, but cross platform.
