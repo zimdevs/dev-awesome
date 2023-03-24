@@ -8,7 +8,18 @@ Being a developer in Zimbabwe is hard. It's lonely and most of your growth comes
 
 Want to know when a new entry is added? Click `Watch` at the top of the page and `All Activity`.
 
-## Java
+## Contents
+
+- [Zimdevs - Dev Awesome](#zimdevs---dev-awesome)
+  - [Contents](#contents)
+  - [Flutter](#flutter)
+    - [Resources](#resources)
+  - [Java](#java)
+  - [Javascript](#javascript)
+  - [Conventions](#conventions)
+    - [Resources](#resources-1)
+  - [Tutorials](#tutorials)
+  - [Tools](#tools)
 
 ## Flutter
 
@@ -16,14 +27,16 @@ Want to know when a new entry is added? Click `Watch` at the top of the page and
 
 - [pubtrends.dev](https://pubtrends.dev/) - Compare dart & flutter packages. Useful for looking for alternatives to a package you are using or have googled.
 
+## Java
+
 ## Javascript
 
-## Tutorials
-
-## Tools
-
-## Standards & Conventions
+## Conventions
 
 ### Resources
 
 - [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages. Commit messages are very opinionated, no right choice, why not use a standard that is already well documented?
+
+## Tutorials
+
+## Tools
