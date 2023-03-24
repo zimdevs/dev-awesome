@@ -4,9 +4,21 @@
 
 ![Zimbabwe Flag](https://cdn.britannica.com/33/4233-004-30998E1D/Flag-Zimbabwe.jpg)
 
-Being a developer in Zimbabwe is hard. It's lonely and most of your growth comes at the hands of stack overflow. Hopefully we can help!
+---
 
-Want to know when a new entry is added? Click `Watch` at the top of the page and `All Activity`.
+This GitHub repository is a curated list of the best tools and libraries for coding in Zimbabwe. It is a community-driven project that aims to provide Zimbabwean developers with access to high-quality resources that can help them improve their coding skills and develop better software.
+
+The repository includes a variety of tools and libraries, including programming languages, frameworks, databases, code editors, and more. Each resource is listed with a brief description and a link to its official website or documentation.
+
+This list is continuously updated and maintained by the community, so developers can always find the latest and most relevant resources. It is a valuable resource for anyone looking to improve their coding skills or find new tools and libraries to work with in Zimbabwe.
+
+Overall, this GitHub repository is an excellent resource for Zimbabwean developers who want to stay up-to-date with the latest tools and libraries in the coding world
+
+---
+
+> Want to know when a new entry is added? Click `Watch` at the top of the page and `All Activity`.
+
+---
 
 ## Contents
 
