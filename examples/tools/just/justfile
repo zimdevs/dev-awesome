@@ -1,0 +1,9 @@
+# Remove a directory on any platform
+[windows]
+rimraf dir:
+  rmdir /s {{dir}}
+
+[macos]
+[linux]
+rimraf dir:
+  rm -rf {{dir}}
