@@ -63,3 +63,5 @@ Overall, this GitHub repository is an excellent resource for Zimbabwean develope
 ## Tools
 
 - [just](https://just.systems/) - just is a handy way to save and run project-specific commands. Cross platform script files to keep in the root of your project dir, run common tasks just like a helper .sh file, but cross platform.
+- [poe.com](https://poe.com) - Helpful AI chat. Quora has made an app and website that combines the top AI chatbots into one. Who cares right? Zimbos. No VPN required. Chatgpt and more without Americans telling you where to live.
+- [raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. Sorry guys, Mac only, but soooo good. Search npm, docker hub, pub.dev, and more straight from your launcher. Soon search Chatgtp too!
