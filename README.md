@@ -46,6 +46,8 @@ At the end of the day, being a developer in Zimbabwe may have its challenges, bu
 
 ## Javascript
 
+- [nanoid](https://github.com/ai/nanoid) - A tiny npm libary for full control over your unique ids, id length, alphabet and known [collision probability](https://zelark.github.io/nano-id-cc/)
+
 ## Conventions
 
 - [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages. Commit messages are very opinionated, no right choice, why not use a standard that is already well documented?
